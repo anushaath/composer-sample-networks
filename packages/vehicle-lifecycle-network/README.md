@@ -5,7 +5,7 @@
 This business network defines:
 
 **Participants**
-`AuctionHouse` `Company` `Manufacturer` `PrivateOwner` `Regulator` `ScrapMerchant`
+ `Manufacturer` `PrivateOwner` `Regulator` `ScrapMerchant`
 
 **Assets**
 `Order` `Vehicle`
